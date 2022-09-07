@@ -1,3 +1,8 @@
+* {
+  font-family: Georgia, serif;
+  color: #284588;
+}
+
 header {
   color: #284588;
   text-shadow: 10px 6px 2px #33AFB1;
@@ -42,6 +47,6 @@ header {
   .Dream-Schedule {
     float: left;
   }
-  aside {
+  .Favorite-Animal {
     float: right;
   }
