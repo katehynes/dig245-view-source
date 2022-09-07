@@ -1,1 +1,47 @@
-/* css */
+header {
+  color: #284588;
+  text-shadow: 10px 6px 2px #33AFB1;
+  text-align: center;
+  font-family: fantasy;
+  letter-spacing: 5px;
+  font-size: 80px;
+  <!-- text-shadow: 1px 2px 4px #f88379; -->
+}
+
+  body {
+    background-color: #71C2E7;
+  }
+
+  h1 {
+    color: #f6b092;
+    font-weight: bold;
+    font-family: Georgia, serif;
+  }
+  h3 {
+    font-family: fantasy;
+    font-weight: bold;
+  }
+  .intro {
+    font-style: italic;
+    color: #008899;
+  }
+  table {
+    border: 1px solid;
+    border-collapse: separate;
+    border-spacing: 15px 15px;
+    background-color: #284588;
+  }
+  th {
+    font-family: fantasy;
+    color: #ABD4F8;
+  }
+  td {
+    font-family: Georgia, serif;
+    color: white;
+  }
+  .Dream-Schedule {
+    float: left;
+  }
+  aside {
+    float: right;
+  }
