@@ -10,7 +10,6 @@ header {
   font-family: fantasy;
   letter-spacing: 5px;
   font-size: 80px;
-  <!-- text-shadow: 1px 2px 4px #f88379; -->
 }
 
   body {
@@ -26,10 +25,6 @@ header {
   h2 {
     font-family: fantasy;
     font-weight: bold;
-  }
-  .intro {
-    font-style: italic;
-    color: #008899;
   }
   table {
     border: 1px solid;
@@ -59,4 +54,14 @@ header {
   }
   .metaphor-meat {
     font-family: cursive;
+  }
+  .spacing {
+    line-height: 150%;
+    font-size: 20px;
+  }
+  .center {
+    text-align: center;
+  }
+  .bold {
+    font-weight: bold;
   }
