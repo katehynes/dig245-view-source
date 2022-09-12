@@ -12,56 +12,67 @@ header {
   font-size: 80px;
 }
 
-  body {
-    background-color: #71C2E7;
-  }
+body {
+  background-color: #71C2E7;
+}
 
-  h1 {
-    color: #33AFB1;
-    text-align: center;
-    font-weight: bold;
-    font-family: Georgia, serif;
-  }
-  h2 {
-    font-family: fantasy;
-    font-weight: bold;
-  }
-  table {
-    border: 1px solid;
-    border-collapse: separate;
-    border-spacing: 15px 15px;
-    background-color: #284588;
-  }
-  th {
-    font-family: fantasy;
-    color: #ABD4F8;
-  }
-  td {
-    font-family: Georgia, serif;
-    color: white;
-  }
-  .column-display {
-    display: flex;
-    height: 1000px;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  .metaphor {
-    font-size: 30px;
-    text-align: center;
-  }
-  .metaphor-meat {
-    font-family: cursive;
-  }
-  .spacing {
-    line-height: 150%;
-    font-size: 20px;
-  }
-  .center {
-    text-align: center;
-  }
-  .bold {
-    font-weight: bold;
-  }
+h1 {
+  color: #33AFB1;
+  text-align: center;
+  font-weight: bold;
+  font-family: fantasy;
+  letter-spacing: 3px;
+}
+
+h2 {
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+table {
+  border: 1px solid;
+  border-collapse: separate;
+  border-spacing: 15px 15px;
+  background-color: #284588;
+}
+
+th {
+  font-family: fantasy;
+  color: #ABD4F8;
+}
+
+td {
+  font-family: Georgia, serif;
+  color: white;
+}
+
+.column-display {
+  display: flex;
+  height: 1000px;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.metaphor {
+  font-size: 30px;
+  text-align: center;
+}
+
+.metaphor-meat {
+  font-family: cursive;
+}
+
+.spacing {
+  line-height: 150%;
+  font-size: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
